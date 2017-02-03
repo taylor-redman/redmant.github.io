@@ -1,11 +1,8 @@
 ---
 layout: page
 title: About Me
-subtitle: Biographical Information about Taylor Redman 
+subtitle: Biographical Information about Taylor Redman
 ---
-
-# about-me
-## TL;DR: Became interested in the possibilities of computer science in high school. Plans on majoring in Computer Science because of the many different career paths that are available after graduation.
 
 Taylor Redman is a freshman at Allegheny College and is planning on majoring in Computer Science with a double minor in Astronomy and History. Taylor chose to come to Allegheny College because he wanted a small campus environment and it was the perfect distance away from home. The school also awarded him with a Trustee Scholarship, which was a big motivator when he was making his final college decision. He is very excited for the next three and a half years at Allegheny and is looking forward to meeting new people and making lifelong memories.
 
