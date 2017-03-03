@@ -5,10 +5,10 @@ subtitle: A Streamlined and Simple Approach to Money Management
 
 image: /img/money.jpg
 bigimg: /img/money.jpg
-tags: [random, exciting-stuff]
+tags: [mobile apps, banking]
 ---
+TL;DR: On-line banking is becoming a more mainstream application on many portable devices and is capable of allowing anyone, anywhere to track or change balances and data in their bank accounts.
 
-This is my first post, how exciting!
 
 The Internet has become almost a necessity for everything in our lives to function. So many aspects of things we do everyday rely on the Internet to function in some way. Anything you check on your phone: the weather, news updates, social media feeds, miscellaneous facts discovered using a search engine all require a connection to the Internet to acquire information. The Internet and the Web have become parts of us as individuals and it is clear that we tend to express ourselves by using web related software or through the Internet. It has become an almost vital part of how we live our lives.
 
