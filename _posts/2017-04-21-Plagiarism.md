@@ -16,6 +16,8 @@ One of the major factors that has led to this schism on plagiarism policies has 
 
 Another factor that contributes to active plagiarism is that many institutions around the world don't even view plagiarism as a harmful act. Proponents of plagiarism may object that since scholarly work is intended to educate, then sharing published work for the sake of learning is an ethical act. While this statement has some moral validity, students and scholars deserve to be recognized when their work is being used by another. There is a level of respect that students and professionals should adhere to when planning on using someone else's published work. There is a person behind every paper or lab report and that person put forth a lot of time, effort, and possibly money to make the best project or assignment that they could. There are ethical boundaries that you shouldn't cross when citing someone's work. If it's not yours, cite whomever it came from. Plain and simple.
 
+Conclusively, when discussing the topic of plagiarism, there are some that see plagiarism as a way of simply sharing knowledge to a broader audience. However the majority of people would agree that plagiarizing others is unfair to the students and scholars that put in the effort to create and publish their work to begin with.
+
 
 
 Citations:
